@@ -16,7 +16,7 @@ const products =
 {
         name:"قرع" ,
         price:"2100" ,
-        image:"images/qara.jpg"
+        image:"qara.jpg"
     },
 
 
@@ -24,7 +24,7 @@ const products =
     {
         name:"دوار الشمس" ,
         price:"1300" ,
-        image:"images/doar.jpg"
+        image:"doar.jpg"
     },
 
 
@@ -32,7 +32,7 @@ const products =
     {
         name:"فول سوداني" ,
         price:"900" ,
-        image:"images/hbazez.jpg"
+        image:"hbazez.jpg"
     }
 
 ];
