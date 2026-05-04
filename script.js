@@ -9,7 +9,7 @@ const products =
     {
         name:"زعقة" ,
         price:"800" ,
-        image:"images/zaaqa.jpg"
+        image:"zaaqa.jpg"
     },
 
 
