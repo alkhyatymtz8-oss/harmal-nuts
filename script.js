@@ -21,10 +21,16 @@ const products = [
     image: "doar.jpg"
   },
   {
-    name: "فول سوداني",
+    name: "حب العزيز عادي",
     price: "900",
     image: "hbazez.jpg"
-  }
+  },
+
+  {
+name:"كاجو",
+    price:"5800",
+    image:"kajo.jpg"
+  
 ];
 
 const container = document.getElementById("products");
