@@ -24,12 +24,6 @@ const products = [
     name: "حب العزيز عادي",
     price: "900",
     image: "hbazez.jpg"
-  },
-
-  {
-name:"كاجو",
-    price:"5800",
-    image:"kajo.jpg"
   }
 ];
 
