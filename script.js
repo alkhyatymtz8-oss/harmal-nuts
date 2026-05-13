@@ -40,7 +40,7 @@ const products = [
     name: "بيوقلز",
     price: "900",
     image: "biuglz.jpg"
-  },
+  }
   
 ];
 
