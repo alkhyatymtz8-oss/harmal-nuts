@@ -57,7 +57,7 @@ const products = [
     {
     name: "زبيب",
     price: "4000",
-    image: "zabeb.jpg"
+    image: "zabib.jpg"
   },
 
     {
