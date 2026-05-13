@@ -108,9 +108,32 @@ const products = [
   },
 
     {
+    name: "جمبري ملون",
+    price: "1000",
+    image: "jam.jpg"
+  },
+
+    {
     name: "فشار",
     price: "600",
     image: "fshar.jpg"
+  },
+
+    {
+    name: "فاصوليا",
+    price: "900",
+    image: "fas.jpg"
+  },
+    {
+    name: "عدس احمر",
+    price: "800",
+    image: "adsa.jpg"
+  },
+  
+    {
+    name: "عدس اسود",
+    price: "750",
+    image: "ads.jpg"
   }
   
 ];
