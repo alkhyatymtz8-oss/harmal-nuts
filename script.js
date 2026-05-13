@@ -6,6 +6,12 @@ function goToProducts() {
 
 const products = [
   {
+    name: " مكسرات حرمل",
+    price: "اجود انواع المكسرات",
+    image: "har.jpg"
+  },
+  
+  {
     name: "زعقة",
     price: "800",
     image: "zaaqa.jpg"
@@ -76,6 +82,12 @@ const products = [
     price: "900",
     image: "bug.jpg"
   },
+
+    {
+    name: "فشار",
+    price: "600",
+    image: "fshar.jpg"
+  }
   
 ];
 
