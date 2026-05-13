@@ -17,14 +17,20 @@ const products = [
     image: "zaaqa.jpg"
   },
   {
-    name: "قرع",
+    name: "قرع مغربي",
     price: "2100",
     image: "qara.jpg"
+  },
+
+    {
+    name: "قرع بلدي",
+    price: "1700",
+    image: "qar.jpg"
   },
   {
     name: "دوار الشمس",
     price: "1300",
-    image: "doar.jpg"
+    image: "doaar.jpg"
   },
   {
     name: "حب العزيز عادي",
@@ -35,6 +41,12 @@ const products = [
     name: "حب العزيز أحمر",
     price: "1200",
     image: "ahmer.jpg"
+  },
+
+    {
+    name: "حب العزيز محمص",
+    price: "1700",
+    image: "hb.jpg"
   },
   
     {
@@ -61,15 +73,27 @@ const products = [
   },
 
     {
-    name: " حبيبات اللوتس",
+    name: " حبيبات اللوتس بالشوكلاتة",
     price: "2000",
     image: "lots.jpg"
+  },
+
+    {
+    name: "حبيبات اللوتس بالحليب",
+    price: "2000",
+    image: "loots.jpg"
   },
 
     {
     name: "حبيبات",
     price: "2000",
     image: "hbebat.jpg"
+  },
+
+  {
+    name: "سمسم",
+    price: "1700",
+    image: "smsm.jpg"
   },
     {
     name: "بيوقلز منوع",
