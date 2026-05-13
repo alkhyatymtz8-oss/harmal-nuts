@@ -25,17 +25,40 @@ const products = [
     price: "900",
     image: "hbazez.jpg"
   },
+  {
+    name: "حب العزيز أحمر",
+    price: "1200",
+    image: "ahmer.jpg"
+  },
+  
     {
     name: "كاجو",
     price: "5800",
     image: "kajo.jpg"
   },
     {
-    name: "لوز",
+    name: " لوز أسترالي",
     price: "5800",
     image: "loz.jpg"
   },
 
+    {
+    name: "لوز افغاني",
+    price: "5800",
+    image: "looz.jpg"
+  },
+
+    {
+    name: " حبيبات اللوتس",
+    price: "2000",
+    image: "lots.jpg"
+  },
+
+    {
+    name: "حبيبات",
+    price: "2000",
+    image: "hbebat.jpg"
+  },
     {
     name: "بيوقلز",
     price: "900",
