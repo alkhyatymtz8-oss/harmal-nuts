@@ -49,6 +49,12 @@ const products = [
   },
 
     {
+    name: "زبيب",
+    price: "4000",
+    image: "zabeb.jpg"
+  },
+
+    {
     name: " حبيبات اللوتس",
     price: "2000",
     image: "lots.jpg"
@@ -60,10 +66,16 @@ const products = [
     image: "hbebat.jpg"
   },
     {
-    name: "بيوقلز",
+    name: "بيوقلز منوع",
     price: "900",
     image: "biuglz.jpg"
-  }
+  },
+
+    {
+    name: "بيوقلز شكل السمكه",
+    price: "900",
+    image: "bug.jpg"
+  },
   
 ];
 
