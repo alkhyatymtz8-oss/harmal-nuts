@@ -29,8 +29,18 @@ const products = [
     name: "كاجو",
     price: "5800",
     image: "kajo.jpg"
-  }
-  
+  },
+    {
+    name: "لوز",
+    price: "5800",
+    image: "loz.jpg"
+  },
+
+    {
+    name: "بيوقلز",
+    price: "900",
+    image: "biuglz.jpg"
+  },
   
 ];
 
